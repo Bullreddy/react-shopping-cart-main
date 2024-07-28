@@ -1,0 +1,84 @@
+{
+  "data": {
+    "products": [
+      {
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "currencyFormat": "₹",
+       "currencyId": "INR",
+        "description": "14/15 s/nº",
+        "id": 0,
+        "installments": 9,
+        "isFreeShipping": true,
+        "price": 699,
+        "sku": 85525157514386440,
+        "style": "White T-shirt",
+        "title": "Non Veg Buffet - Weekend(SAT-SUN)"
+      },
+      {
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "currencyFormat": "₹",
+       "currencyId": "INR",
+        "description": "14/15 s/nº",
+        "id": 1,
+        "installments": 9,
+        "isFreeShipping": true,
+        "price": 649,
+        "sku": 85525157514386441,
+        "style": "White T-shirt",
+        "title": "Veg Buffet - Weekend(SAT-SUN)"
+      },
+      {
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "currencyFormat": "₹",
+       "currencyId": "INR",
+        "description": "14/15 s/nº",
+        "id": 2,
+        "installments": 9,
+        "isFreeShipping": true,
+        "price": 599,
+        "sku": 85525157514386442,
+        "style": "White T-shirt",
+        "title": "Non Veg Buffet - Weekday(MON-FRI)"
+      },
+      {
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "currencyFormat": "₹",
+       "currencyId": "INR",
+        "description": "14/15 s/nº",
+        "id": 3,
+        "installments": 9,
+        "isFreeShipping": true,
+        "price": 549,
+        "sku": 85525157514386443,
+        "style": "White T-shirt",
+        "title": "Veg Buffet - Weekday(MON-FRI)"
+      },
+      {
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "currencyFormat": "₹",
+       "currencyId": "INR",
+        "description": "14/15 s/nº",
+        "id": 4,
+        "installments": 9,
+        "isFreeShipping": true,
+        "price": 349,
+        "sku": 85525157514386444,
+        "style": "White T-shirt",
+        "title": "Kids Buffet (6-9 yrs)"
+      },
+      {
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "currencyFormat": "₹",
+       "currencyId": "INR",
+        "description": "14/15 s/nº",
+        "id": 5,
+        "installments": 9,
+        "isFreeShipping": true,
+        "price": 449,
+        "sku": 85525157514386445,
+        "style": "White T-shirt",
+        "title": "Senior Citizen Buffet"
+      }
+    ]
+  }
+}
